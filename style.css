@@ -3,6 +3,7 @@
 *::before,
 *::after {
     box-sizing: border-box;
+
 }
 
 /* Убираем внутренние отступы */
@@ -83,7 +84,7 @@ header{
     left: 0;
     z-index: 10;
     width: 100%;
-    height: 100%;
+    flex: 0 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -103,5 +104,12 @@ header>nav>ul{
 header>nav>ul>li{
     list-style: none;
     margin-right: 10px;
+
+}
+.features{
+    background-image: url("img/section.jpg");
+    background-size: cover;
+}
+h3>ul>li{
 
 }
