@@ -110,6 +110,14 @@ header>nav>ul>li{
     background-image: url("img/section.jpg");
     background-size: cover;
 }
-h3>ul>li{
-
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+.reviews{
+    background-image: url("img/section2.jpg");
+    background-size: cover;
+}
+
+
