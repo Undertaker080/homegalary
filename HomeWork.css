@@ -53,3 +53,12 @@ header>.nav>ul>li{
     background-size: cover;
     z-index: -1;
 }
+.content{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    flex-direction: column;
+}
