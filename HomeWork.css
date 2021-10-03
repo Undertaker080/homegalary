@@ -80,3 +80,12 @@ header>.nav>ul>li{
     text-align: center;
     flex-direction: row;
 }
+.content3{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    flex-direction: row;
+}
