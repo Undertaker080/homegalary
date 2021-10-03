@@ -71,3 +71,12 @@ header>.nav>ul>li{
     text-align: center;
     flex-direction: row;
 }
+.content2{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 1000vh;
+    text-align: center;
+    flex-direction: row;
+}
