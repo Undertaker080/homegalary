@@ -97,3 +97,7 @@ col-container{
     flex: 1;
     padding: 16px;
 }
+header,footer{
+    flex: 0 0 auto;
+    background: antiquewhite;
+}
