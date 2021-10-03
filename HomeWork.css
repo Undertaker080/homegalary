@@ -62,3 +62,12 @@ header>.nav>ul>li{
     text-align: center;
     flex-direction: column;
 }
+.content1{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    min-height: 1000vh;
+    text-align: center;
+    flex-direction: row;
+}
