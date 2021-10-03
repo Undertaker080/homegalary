@@ -89,3 +89,11 @@ header>.nav>ul>li{
     text-align: center;
     flex-direction: row;
 }
+col-container{
+    display: flex;
+    width: 100%;
+}
+.col{
+    flex: 1;
+    padding: 16px;
+}
